@@ -2,7 +2,8 @@
 int main () {
 	int counter = 0;
 	unsigned char num = 200;
-	for (unsigned char i = 0; i < 2 * num; ++i) {
+	for (unsigned char i = 0; i < 2 * num; ++i) {//i interger overflow
+		printf("i = %d.\n", i);
 		counter++;
 		printf("%d\n", counter);
 	}
