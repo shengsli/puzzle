@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Videos>
+	<Video>
+		<Title>The Distinguished Gentleman</Title>
+		<Director>Jonathan Lynn</Director>
+		<CastMembers>
+			<Actor>Eddie Murphy</Actor>
+			<Actor>Lane Smith</Actor>
+			<Actor>Sheryl Lee Ralph</Actor>
+			<Actor>Joe Don Baker</Actor>
+			<Actor>Victoria Rowell</Actor>
+		</CastMembers>
+		<Length>112 Minutes</Length>
+		<Format>DVD</Format>
+		<Rating>R</Rating>
+	</Video>
+	<Video>
+		<Title>Her Alibi</Title>
+		<Director>Bruce Beresford</Director>
+		<Length>94 Mins</Length>
+		<Format>DVD</Format>
+		<Rating>PG-13</Rating>
+	</Video>
+	<Video>
+		<Title>Chalte Chalte</Title>
+		<Director>Aziz Mirza</Director>
+		<Length>145 Mins</Length>
+		<Format>DVD</Format>
+		<Rating>N/R</Rating>
+	</Video>
+</Videos>

@@ -1,0 +1,8 @@
+* swap
+a = a + b;
+b = a - b;
+a = a - b;
+* swap
+a = a ^ b
+b = a ^ b
+a = a ^ b
